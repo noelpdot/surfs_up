@@ -34,4 +34,4 @@ using jupyter notebook to retireve the data stored in a SQLlite database, A Weat
 
 ## Recommendations
 - An analysis for other locations at Hawaii could be done to see a more favorable option in terms of temperature and precipitation. 
-- Also other aspects like wave heights which is data that can be studied for serious surfers and touristic traffic to set up the ice cream shop. 
+- Also other aspects like wave heights which is data that can be studied for serious surfers.
